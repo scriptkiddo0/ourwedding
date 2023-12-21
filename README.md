@@ -1,1 +1,2 @@
-# ourwedding
+# simpleTheme
+Wedding Invitation Theme : simple
